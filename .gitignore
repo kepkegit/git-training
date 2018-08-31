@@ -1,0 +1,4 @@
+# ignoruj wszystkie pliki z rozszerzeniem a
+*.a
+# ale zachowaj plik lib.a
+!lib.a
