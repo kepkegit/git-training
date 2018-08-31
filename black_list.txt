@@ -2,3 +2,7 @@ John
 Wayne
 Steve
 Mark
+Vin
+Mary
+Ida
+Dorota
